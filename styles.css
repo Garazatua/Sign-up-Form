@@ -166,6 +166,7 @@ form {
 label {
     font-weight: bold;
     font-size: 0.7rem;
+    display: block;
 }
   
 input {
