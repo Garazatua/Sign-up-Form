@@ -150,7 +150,7 @@ a:hover {
 
 form {
     display: flex;
-    gap: 3rem;
+    gap: 4rem;
     max-width: 550px;
     color: rgba(4, 1, 24, 0.609);
 }
